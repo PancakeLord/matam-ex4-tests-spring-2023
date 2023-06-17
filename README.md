@@ -34,5 +34,5 @@ Credit to [@omrzv](https://www.github.com/omrzv) and [@Amir-Mann](https://www.gi
 * Contains the following files:
     * tester.sh - Runs the the test, *you can change the amount of tests runs in it*
     * testsMain.cpp - The main program (simulates the game and writes the results)
-    * inFiles - in files in the format of testXXXX.in and testXXXX.dock
+    * inFiles - in files in the format of testXXXX.in and testXXXX.deck
     * outFiles - out files in the format of testXXX.out and after you ran the tests testXXX.result 
