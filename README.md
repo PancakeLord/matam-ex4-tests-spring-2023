@@ -5,7 +5,7 @@ There is only End to End (file tests) for this exercise.
 Credit to [@omrzv](https://www.github.com/omrzv) and [@Amir-Mann](https://www.github.com/Amir-Mann) who created the [original tests for spring 2022 semester](https://github.com/omrzv/matam_tests_spring2022/tree/main/ex4), I adapted them to our semester's exercise :).
 
 ## File Tests:
-**For the tests to run, change the witch's force from 11 to 10 and the gremlin's force from 5 to 6!!**
+**For the tests to run, make sure to change the witch's force from 11 to 10 and the gremlin's force from 5 to 6!!**
 
 **Also, the tests assume that barfight causes 10 damage and not 8, but as of now the official tests also assume that.**
 
